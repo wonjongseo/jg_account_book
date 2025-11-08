@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601057492767",
+    "project_id": "jg-account-book",
+    "storage_bucket": "jg-account-book.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601057492767:android:d9447de27c91c5b54cfa2a",
+        "android_client_info": {
+          "package_name": "com.example.jg_account_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffvLkCv4rfrmHBsJUe5wR_3nC9kB4gWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
